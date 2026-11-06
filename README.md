@@ -63,6 +63,3 @@ Suggestions and improvements are welcome. Fork the repository, create a branch, 
 
 This project is not affiliated with or endorsed by GPCET. College names and trademarks belong to their respective owners.
 
-## License
-
-Released under the [MIT License](https://opensource.org/licenses/MIT). Add a `LICENSE` file to the repository if you want to use this licence.
