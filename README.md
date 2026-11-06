@@ -1,5 +1,5 @@
 # GPCET Website (Sample Homepage)
-
+Veiw the site : https://kotala-jagadeesh.github.io/gpcet/"
 A responsive, single-page homepage for **G. Pulla Reddy College of Engineering & Technology (GPCET), Kurnool, Andhra Pradesh**.
 
 > **Note:** This is an unofficial sample project. The content is placeholder text and is not taken from the official website ([gpcet.ac.in](https://gpcet.ac.in)). Replace it with verified information before any public use.
